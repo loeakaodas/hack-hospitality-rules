@@ -72,11 +72,11 @@ It's important to note that these judging criteria do not include:
 _So don't worry about coming up with the next big idea or building the next Facebook. You'll have plenty of time for that outside the hackathon. just focus on learning, having fun, and making new friends. At the end of the day the skills you learn and the friends you make might lead to the next big thing—but you don't have to do that to win a hackathon._ [__While I like the sentiment, I think we should remove this paragraph__]
 
 
-## _Remember!
+## _Remember!_
 
-The competition is just a part of the hackathon. To make the most out of the event, try something new, teach other people, and make new friends!
+_The competition is just a part of the hackathon. To make the most out of the event, try something new, teach other people, and make new friends!_
 
-Happy Hacking!_ [__Should probably remove this as well__]
+_Happy Hacking!_ [__Should probably remove this as well__]
 
 ### Thanks
 
