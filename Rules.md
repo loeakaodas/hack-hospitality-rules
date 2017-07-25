@@ -12,7 +12,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 ## The rules of the competition
 
 1. There is no maximum or minimum team size. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
-2. ~~Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event. ~~
+2. ~~Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event.~~
 3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
 4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
 5. All work on a project should be done at the hackathon.
@@ -42,7 +42,7 @@ Teams will be judged on these four criteria. Judges will weigh the criteria equa
 - __Technology:__ How technically impressive was the hack? Was the technical problem the team tackled difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go "Wow"?
 - __Design:__ Did the team put thought into the user experience? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?). 
 - __Completion:__ Does the hack work? Did the team achieve everything they wanted? 
-- ~~__Learning:__ Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded. ~~
+- ~~__Learning:__ Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded.~~
 
 These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
 
